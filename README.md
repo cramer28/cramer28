@@ -16,6 +16,7 @@
 - 💻 Me interesa el desarrollo web full stack y los sistemas backend
 - 🌱 Siempre aprendiendo nuevas tecnologías y herramientas
 - 📫 ¿Querés contactarme? Dejame un mensaje o revisá mis redes más abajo
+- 🎮 Actualmente Jugando: *Pragmata*. Me gustan principalmente los SinglePlayer pero tengo mis recaídas ocasionales en CS, Rocket League y LoL
 
 ---
 
@@ -68,8 +69,7 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cramer28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cramer28&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=cramer28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
 ---
