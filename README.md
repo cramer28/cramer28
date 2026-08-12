@@ -16,7 +16,7 @@
 - 💻 Me interesa el desarrollo web full stack y los sistemas backend
 - 🌱 Siempre aprendiendo nuevas tecnologías y herramientas
 - 📫 ¿Querés contactarme? Dejame un mensaje o revisá mis redes más abajo
-- 🎮 Actualmente Jugando: *Pragmata*. Me gustan principalmente los SinglePlayer pero tengo mis recaídas ocasionales en CS, Rocket League y LoL
+- 🎮 Actualmente Jugando: *Marvel Spider-Man 2*. Me gustan principalmente los singleplayer pero tengo mis recaídas ocasionales en CS, Rocket League y LoL
 
 ---
 
