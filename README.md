@@ -4,7 +4,7 @@
 <h1 align="center">Hello There! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=T%C3%A9cnico+en+Programaci%C3%B3n;Desarrollador+Full+Stack;Basado+en+Mar+de+Ajo%2C+Argentina" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=T%C3%A9cnico+en+Programaci%C3%B3n;Desarrollador+Full+Stack" alt="Typing SVG" />
 </p>
 
 ---
